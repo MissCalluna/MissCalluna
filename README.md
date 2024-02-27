@@ -2,7 +2,7 @@
 
 **`Cosmic Code Crafter`**
 
-I specialize in creating dynamic and responsive web applications using the powerful combination of MongoDB, Express.js, React.js, and Node.js technologies. With a passion for innovation and a commitment to excellence, I strive to deliver user-friendly and engaging web experiences that meet the unique needs of each client.
+"Hello, I am [Heather Kambarami], a passionate software engineering student dedicated to mastering the art of creating innovative and efficient solutions through code. With a strong foundation in programming languages such as Java, Python, and C++, Typescript, JavaScript I am driven by a curiosity to explore new technologies and a commitment to continuous learning. I thrive in collaborative environments where I can apply my problem-solving skills to develop impactful software applications that enhance user experiences. Excited to connect with like-minded individuals and contribute to the ever-evolving world of technology."
 
 
 
